@@ -1,4 +1,4 @@
-!logo[](https://github.com/Sovan-07/Sovan-07/blob/main/banner.png)
+![logo](https://github.com/Sovan-07/Sovan-07/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sovan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
